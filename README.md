@@ -48,4 +48,6 @@ ENCFF700QWJ | 73984712 | 3599228 (4.86%) | 8727635 (11.80%) | 61657849 (83.34%)
 ![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/diagram3.png)
 
 ![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/diagram4.png)
+
+Маленькое количество пересечения связано с тем, что мы рассматривали только одну хромосому.
 ### Бонусная часть 
