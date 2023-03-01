@@ -41,5 +41,11 @@ ENCFF700QWJ | 73984712 | 3599228 (4.86%) | 8727635 (11.80%) | 61657849 (83.34%)
 Большой процент не выровнявшихся ридов связан с тем, что выравнивание происходила по одной хромомсоме, а всего их у человека 23 пары. 
 
 ### Диаграммы Эйлера-Венна
-![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/Снимок_экрана_2023-03-01_в_23.03.36.png)
+![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/diagram1.png)
+
+![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/diagram2.png)
+
+![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/diagram3.png)
+
+![image](https://github.com/alkmnd/hse_hw2_chip/raw/main/images/diagram4.png)
 ### Бонусная часть 
